@@ -1,7 +1,7 @@
 export default function Question1() {
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg">
-    <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">Next.js and React Comparison</h1>
+    <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">Question 1</h1>
     
     <div className="space-y-6">
       <section>
