@@ -1,4 +1,4 @@
-export default function Component() {
+export default function Question5() {
     return (
       <div className="max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-lg">
         <div className="mb-6">
