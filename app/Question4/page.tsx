@@ -14,7 +14,7 @@ export default function Question4() {
           </div>
           <div className="bg-blue-50 p-4 rounded-md">
             <p className="text-gray-800 leading-relaxed">
-              Vercel is a Frontend Cloud Platform that has 2 main products: Managed Infrastructure and Developer Experience Platform. We provide an out of the box CI/CD workflow to build and deploy your applications while securely scaling your production workloads. With our DXP, we also provide the necessary tools for teams to build their best product – this includes cross-functional collaboration, overall performance monitoring and other ways for developers to increase their iteration velocity and for business leaders to accomplish company goals with more efficiency. Buy now
+              Vercel is a Frontend Cloud Platform that has 2 main products: Managed Infrastructure and Developer Experience Platform. We provide an out of the box CI/CD workflow to build and deploy your applications while securely scaling your production workloads. With our DXP, we also provide the necessary tools for teams to build their best product – this includes cross-functional collaboration, overall performance monitoring and other ways for developers to increase their iteration velocity and for business leaders to accomplish company goals with more efficiency.
             </p>
           </div>
           <div className="text-sm text-gray-500 italic">
