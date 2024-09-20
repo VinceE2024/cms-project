@@ -26,19 +26,19 @@ export default function Question7() {
           <h3 className="text-xl font-semibold text-gray-800">Resources I would use to prepare for this chat:</h3>
           <ol className="list-decimal list-inside space-y-4 pl-4">
             <li>
-              To get a high level overview, I would use Prompts in Glean such as, "What are Vercel's Security Products?" "How does Vercel's Security Products affect business outcomes?" I find this to be a better option due to Glean's use of internal documentation.
+              To get a high level overview, I would use Prompts in Glean such as, What are Vercels Security Products? How does Vercels Security Products affect business outcomes? I find this to be a better option due to Gleans use of internal documentation.
             </li>
             <li>
-              Next, I would set up a quick 15 to 20 min with Ty Sbano, Vercel's CISO. There I would pick his brain on things that would be important to him about Vercel if he was onboarding.
+              Next, I would set up a quick 15 to 20 min with Ty Sbano, Vercels CISO. There I would pick his brain on things that would be important to him about Vercel if he was onboarding.
             </li>
             <li>
-              Next, I would use Gong Calls from the AE that fostered the deal, and other CSM's and compile and list of questions and even duplicate slides that are relevant to IS in general, CISO in particular.
+              Next, I would use Gong Calls from the AE that fostered the deal, and other CSMs and compile and list of questions and even duplicate slides that are relevant to IS in general, CISO in particular.
             </li>
             <li>
               Next, I would collaborate with a TC or SE to make sure all the information I have collected is sisynced and accurate so I can speak to the CISO needs directly.
             </li>
             <li>
-              Finally, I would take all this information and create a custom deck to communicate this information, hopefully making the CISO's experience informed and smooth.
+              Finally, I would take all this information and create a custom deck to communicate this information, hopefully making the CISOs experience informed and smooth.
             </li>
           </ol>
         </div>

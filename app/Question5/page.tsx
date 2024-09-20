@@ -14,10 +14,10 @@ export default function Question5() {
           <div className="space-y-4 text-gray-700">
             <p>Hi Customer,</p>
             <p>
-              First and foremost, welcome to Vercel! We're super excited to be a part of your development journey.
+              First and foremost, welcome to Vercel! We are super excited to be a part of your development journey.
             </p>
             <p>
-              To answer your questions about 3rd party integrations for Logging and Monitoring, you'd be greatly enabled by our Vercel Marketplace: 
+              To answer your questions about 3rd party integrations for Logging and Monitoring, you would be greatly enabled by our Vercel Marketplace: 
               <a href="https://vercel.com/marketplace" className="text-blue-600 hover:underline">https://vercel.com/marketplace</a>. 
               Here you can have a direct place to browse our 3rd Party integrations for your needs such as Axiom or Baselime for Logging and Checkly or DeBugBear for Monitoring, for example.
             </p>

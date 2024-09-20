@@ -27,7 +27,7 @@ export default function Question6() {
                 <span className="font-semibold">Optimize Caching Strategy</span>: If you can implement effective caching strategies for your Vercel Function requests, future requests can be served from the Edge Network cache rather than calling the function again. This can reduce your FOT usage. More information can be found <a href="https://vercel.com/docs/pricing/networking#fast-origin-transfer" className="text-blue-600 hover:underline">here</a>.
               </li>
               <li>
-                <span className="font-semibold">Monitor and Analyze Usage</span>: Regularly monitor your usage metrics to identify any unusual patterns or spikes in FOT and FDT. Vercel's usage dashboard will give you detailed insights into your data transfer metrics.
+                <span className="font-semibold">Monitor and Analyze Usage</span>: Regularly monitor your usage metrics to identify any unusual patterns or spikes in FOT and FDT. Vercels usage dashboard will give you detailed insights into your data transfer metrics.
               </li>
               <li>
                 <span className="font-semibold">Review Documentation</span>: Vercel provides detailed documents that can be reviewed to help reduce FOT and FDT. Feel free to take a look at these:
